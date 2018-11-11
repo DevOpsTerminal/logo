@@ -1,14 +1,30 @@
 # logo
 All files and information to create the logo 
 
+## 3D Cube orientation
+## 1 right Cube Degree
+x: 50
+y: 50
+z: 30
+## 2 left Cube Degree
+x: 0
+y: 310 ()
+z: 22
+## 3 left Cube Degree
+x: 280
+y: 22
+z: 30
 
 ## Software for editing
+Gimp
 
 ## PLugin to create the cube
 http://gmic.eu/gimp.shtml
 
 ## Rubiks Cube – Gimp Filter Würfel erstellen
 http://www.gimpchat.de/rubiks-cube-gimp-filter-wuerfel-erstellen/
+
+
 
 
 ### The Terminal Icons are comming from:
