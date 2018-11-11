@@ -5,6 +5,9 @@ All files and information to create the logo
 ## Software for editing
 
 ## PLugin to create the cube
+http://gmic.eu/gimp.shtml
+
+## Rubiks Cube – Gimp Filter Würfel erstellen
 http://www.gimpchat.de/rubiks-cube-gimp-filter-wuerfel-erstellen/
 
 
