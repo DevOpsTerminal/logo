@@ -1,6 +1,11 @@
 # logo
 All files and information to create the logo 
 
+
+## Convert image to base64
+https://www.base64-image.de/
+[base64](devops_terminal-cube-green-64-img.html)
+
 ## 3D Cube orientation
 ## 1 right Cube Degree
 x: 50
